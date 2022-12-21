@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="24px" viewBox="0 0 280 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>装饰条2</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="装饰条2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="装饰条1（600*30）备份">
+            <g transform="translate(0.000000, 8.000000)" id="编组">
+                <line x1="0.300201416" y1="4.5" x2="279.534884" y2="4.5" id="直线" stroke="#FFFFFF" stroke-linecap="square"></line>
+                <rect id="矩形" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="1" height="8"></rect>
+                <rect id="矩形" stroke="#979797" fill="#D8D8D8" x="279.5" y="0.5" width="1" height="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
